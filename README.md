@@ -1,5 +1,5 @@
 # Flutter-Utteracademy2022
-![flutter](https://github.com/firstkiadityaf12/utteracademy22-flutter/Screenshot_20220421_235323.png)
+![flutter](https://github.com/firstkiadityaf12/utteracademy22-flutter/blob/main/Screenshot_20220421_235323.png)
 
 A new Flutter project.
 
